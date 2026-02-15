@@ -1,4 +1,31 @@
  [
+   {
+      "id": "note-008",
+      "date": "2026-02-18",
+      "displayDate": "Today",
+      "message": "Dance with me, fall with me, be stupid with me - forever :)",
+      "heartsCount": 14,
+      "isLoved": true,
+      "template": "top"
+    },
+    {
+      "id": "note-008",
+      "date": "2026-02-17",
+      "displayDate": "Today",
+      "message": "I don't need any addiction, I am addicted to you :)",
+      "heartsCount": 14,
+      "isLoved": true,
+      "template": "top"
+    },
+    {
+      "id": "note-008",
+      "date": "2026-02-16",
+      "displayDate": "Today",
+      "message": "A walk with you makes me want to walk a little more ...",
+      "heartsCount": 14,
+      "isLoved": true,
+      "template": "top"
+    },
     {
       "id": "note-008",
       "date": "2026-02-15",
