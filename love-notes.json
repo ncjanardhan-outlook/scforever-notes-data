@@ -1,5 +1,14 @@
  [
   {
+      "id": "note-010",
+      "date": "2026-02-20",
+      "displayDate": "Today",
+      "message": "You look beautiful in today's saree, as usual of course ;)",
+      "heartsCount": 14,
+      "isLoved": true,
+      "template": "top"
+    },
+  {
       "id": "note-009",
       "date": "2026-02-19",
       "displayDate": "Today",
