@@ -1,6 +1,24 @@
  [
   {
       "id": "note-010",
+      "date": "2026-02-22",
+      "displayDate": "Today",
+      "message": "You are my calm in chaos, missed you a lot today",
+      "heartsCount": 14,
+      "isLoved": true,
+      "template": "top"
+    },
+  {
+      "id": "note-010",
+      "date": "2026-02-22",
+      "displayDate": "Today",
+      "message": "Love your madness, love your sweetness, love your craziness!!",
+      "heartsCount": 14,
+      "isLoved": true,
+      "template": "top"
+    },
+  {
+      "id": "note-010",
       "date": "2026-02-20",
       "displayDate": "Today",
       "message": "You look beautiful in today's saree, as usual of course ;)",
