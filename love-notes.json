@@ -1,6 +1,24 @@
  [
   {
       "id": "note-010",
+      "date": "2026-02-24",
+      "displayDate": "Today",
+      "message": "A small chat with you brightens my whole day, pandu",
+      "heartsCount": 14,
+      "isLoved": true,
+      "template": "top"
+    },
+  {
+      "id": "note-010",
+      "date": "2026-02-23",
+      "displayDate": "Today",
+      "message": "Can't imagine myself in your absence, why did you weave such magic!",
+      "heartsCount": 14,
+      "isLoved": true,
+      "template": "top"
+    },
+  {
+      "id": "note-010",
       "date": "2026-02-22",
       "displayDate": "Today",
       "message": "You are my calm in chaos, missed you a lot today",
