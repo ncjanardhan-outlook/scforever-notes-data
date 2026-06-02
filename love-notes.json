@@ -37,13 +37,49 @@
   },
   {
     "id": "note-022",
-    "date": "2026-06-05",
-    "displayDate": "Jun 5",
+    "date": "2026-06-06",
+    "displayDate": "Jun 6",
     "message": "Every ordinary moment becomes unforgettable when I spend it with you",
     "heartsCount": 18,
     "isLoved": false,
     "template": "top"
   },
+  {
+    "id": "note-005",
+    "date": "2026-06-05",
+    "displayDate": "Jun 5",
+    "message": "Every day with you feels like a new chapter in our beautiful story.",
+    "heartsCount": 22,
+    "isLoved": false,
+    "template": "top"
+  },
+  {
+    "id": "note-004",
+    "date": "2026-06-04",
+    "displayDate": "Jun 4",
+    "message": "The best part of my day is knowing I get to share it with you.",
+    "heartsCount": 19,
+    "isLoved": false,
+    "template": "top"
+  },
+  {
+    "id": "note-003",
+    "date": "2026-06-03",
+    "displayDate": "Jun 3",
+    "message": "You make ordinary moments feel extraordinary. I cherish every one of them.",
+    "heartsCount": 24,
+    "isLoved": false,
+    "template": "top"
+  },
+  {
+    "id": "note-002",
+    "date": "2026-06-02",
+    "displayDate": "Jun 2",
+    "message": "You are the peace to my turbulent soul.",
+    "heartsCount": 21,
+    "isLoved": false,
+    "template": "top"
+  }
   {
     "id": "note-020",
     "date": "2026-03-06",
