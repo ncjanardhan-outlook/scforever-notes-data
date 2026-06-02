@@ -1,19 +1,46 @@
  [
   {
-    "id": "note-021",
-    "date": "2026-03-20",
-    "displayDate": "Mar 23",
-    "message": "You had no right to create a void in my heart that only you could fill 😍",
-    "heartsCount": 15,
+    "id": "note-030",
+    "date": "2026-06-10",
+    "displayDate": "Jun 10",
+    "message": "My favorite love story is the one we keep writing together. Happy Anniversary, dear",
+    "heartsCount": 27,
     "isLoved": false,
     "template": "top"
   },
   {
-    "id": "note-021",
-    "date": "2026-03-20",
-    "displayDate": "Mar 20",
-    "message": "You look sweet in the red chudidar!!",
-    "heartsCount": 15,
+    "id": "note-029",
+    "date": "2026-06-09",
+    "displayDate": "Jun 9",
+    "message": "No matter where life takes us, my heart will always choose you",
+    "heartsCount": 16,
+    "isLoved": false,
+    "template": "right"
+  },
+  {
+    "id": "note-027",
+    "date": "2026-06-08",
+    "displayDate": "Jun 8",
+    "message": "You make my heart race and rest at the same time",
+    "heartsCount": 19,
+    "isLoved": false,
+    "template": "bottom"
+  },
+  {
+    "id": "note-025",
+    "date": "2026-06-07",
+    "displayDate": "Jun 7",
+    "message": "You are the calm my heart never knew it was searching for",
+    "heartsCount": 20,
+    "isLoved": false,
+    "template": "right"
+  },
+  {
+    "id": "note-022",
+    "date": "2026-06-06",
+    "displayDate": "Jun 6",
+    "message": "Every ordinary moment becomes unforgettable when I spend it with you",
+    "heartsCount": 18,
     "isLoved": false,
     "template": "top"
   },
